@@ -1,0 +1,5 @@
+C:\Users\guido\Desktop\TP-02\Entidades\bin\Debug\Entidades.dll
+C:\Users\guido\Desktop\TP-02\Entidades\bin\Debug\Entidades.pdb
+C:\Users\guido\Desktop\TP-02\Entidades\obj\Debug\Entidades.dll
+C:\Users\guido\Desktop\TP-02\Entidades\obj\Debug\Entidades.pdb
+C:\Users\guido\Desktop\TP-02\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
